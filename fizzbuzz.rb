@@ -12,3 +12,6 @@ def fizzbuzz(int)
       return nil
     end
 end
+
+
+puts fizzbuzz(15)
